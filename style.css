@@ -1,0 +1,59 @@
+body{
+    margin: 0rem;
+}
+
+header{
+    background-color: rgb(96, 182, 240);
+    background-image: url(./img/pattern.png);
+    background-size: contain;
+}
+.logo{
+    width: 350px;
+    margin-top: 80px;
+}
+
+.margin{
+    margin-left: 5px;
+}
+
+h1{
+    margin-bottom: 0px;
+    font-size: 28px;
+}
+
+.grey{
+    color: gray;
+}
+
+.blue{
+    color: rgb(76, 188, 233)
+}
+
+#data{
+    font-size: 0.7em;
+    margin-bottom: 1em;
+}
+
+.indice{
+    font-size: 0.6em;
+}
+
+.yellow{
+    background-color: yellow;
+}
+thead{
+    background-color: rgb(96, 182, 240);
+    color: white;
+}
+
+#row1{
+    background-color: powderblue;;
+}
+
+#row2{
+    background-color: rgb(229, 238, 240)
+}
+
+#row3{
+    background-color: powderblue;;
+}
